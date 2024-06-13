@@ -10,7 +10,7 @@ Here is my GitHub repository containing the three projects in separate folders, 
 For the projects, I have used datasets that are in the following Google Drive Folder:
 https://drive.google.com/drive/folders/1zykb_eSOtj3HQLJgtLcuvY8Y0-EpLpF8?usp=drive_link
 
-Also, additional information about the accuracy of the models:
+**Also, additional information about the accuracy of the models:**
 
 The accuracy of the models is printed through a classification report. One such example is as follows:
 
@@ -20,7 +20,7 @@ The accuracy of the models is printed through a classification report. One such 
            1       0.01      0.00      0.00      2145
     accuracy                           1.00    555719
 
-Interpretation of the report:
+**Interpretation of the report:**
 
 - Precision: The ratio of correctly predicted positive observations to the total predicted positives.
 - Recall: The ratio of correctly predicted positive observations to all the observations in the actual class.
