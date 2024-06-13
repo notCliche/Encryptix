@@ -1,6 +1,6 @@
 # Encryptix
 
-Hello, This is Om Prakash Behera, doing an internship at Encryptix in the domain of machine learning. For the completion of the internship, I am required to make three out of five given projects.
+Hello, This is Om Prakash Behera, doing an internship at Encryptix in the domain of machine learning. For the completion of the internship, I am required to make three out of five given projects. I have attached a PDF containing all the given tasks.
 
 Here is my GitHub repository containing the three projects in separate folders, namely:
 - Movie Genre Classification
