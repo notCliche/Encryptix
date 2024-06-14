@@ -10,7 +10,7 @@ Here is my GitHub repository containing the three projects in separate folders, 
 For the projects, I have used datasets that are in the following Google Drive Folder:
 https://drive.google.com/drive/folders/1zykb_eSOtj3HQLJgtLcuvY8Y0-EpLpF8?usp=drive_link
 
-**Also, additional information about the accuracy of the models:**
+**Also, additional information about the accuracy of the models: (common for every project)**
 
 The accuracy of the models is printed through a classification report. One such example is as follows:
 
